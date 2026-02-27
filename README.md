@@ -58,15 +58,6 @@ https://www.linkedin.com/notifications/?filter=all
 
 ---
 
-## 🌟 Goals 2026
-
-- 🔥 Master Backend Development  
-- 🤖 Build AI-powered applications  
-- 🚀 Contribute to Open Source  
-- 💼 Become a Software Engineer  
-
----
-
 <p align="center">
   💬 Always learning. Always building. Always improving.
 </p>
