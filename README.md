@@ -57,6 +57,19 @@
 https://www.linkedin.com/notifications/?filter=all
 
 ---
+## 📊 GitHub Stats
+(stats dyalek)
+
+---
+
+## 🎮 Mini Dev Challenge
+
+Can you solve this?
+
+What is the output of this JavaScript code?
+
+```js
+console.log(2 + "2")
 
 <p align="center">
   💬 Always learning. Always building. Always improving.
