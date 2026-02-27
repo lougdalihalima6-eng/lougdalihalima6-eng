@@ -54,9 +54,7 @@
 
 ## 📊 GitHub Stats
 
-![Halima's GitHub stats](https://github-readme-stats.vercel.app/api?username=lougdalihalima6-eng&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lougdalihalima6-eng&layout=compact&theme=tokyonight)
+https://www.linkedin.com/notifications/?filter=all
 
 ---
 
