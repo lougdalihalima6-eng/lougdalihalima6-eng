@@ -1,11 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Halima 👋
+# Hi there, I'm Halima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### Software Engineering Student | AI & Backend Development Enthusiast
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;AI+%26+Backend+Developer;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halima-lougdali)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lougdalihalima6-eng)
+[![Profile Views](https://komarev.com/ghpvc/?username=lougdalihalima6-eng&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lougdalihalima6-eng)
 
 </div>
 
@@ -13,13 +18,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering student** with a strong interest in **Artificial Intelligence** and **Backend Development**. I enjoy building modern, scalable web applications and am constantly expanding my knowledge in backend systems and DevOps practices.
-
-- 🎓 **Currently studying** Software Engineering
-- 🌱 **Learning** Advanced Backend Development & DevOps
-- 💡 **Interested in** AI, Backend Architecture & Clean Code
-- 🌍 **Based in** Morocco
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/halima-lougdali)
+- 🎓 **Software Engineering Student**
+- 💡 Passionate about **Artificial Intelligence** & **Backend Development**
+- 🌱 Currently learning **Advanced Backend Development & DevOps**
+- 🌍 Based in **Morocco**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/halima-lougdali)
 
 ---
 
@@ -37,7 +40,7 @@ I'm a passionate **Software Engineering student** with a strong interest in **Ar
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧪 API & Testing
@@ -57,9 +60,24 @@ I'm a passionate **Software Engineering student** with a strong interest in **Ar
 
 <div align="center">
 
-![Halima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lougdalihalima6-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lougdalihalima6-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lougdalihalima6-eng&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lougdalihalima6-eng&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lougdalihalima6-eng&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=lougdalihalima6-eng&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -67,28 +85,50 @@ I'm a passionate **Software Engineering student** with a strong interest in **Ar
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
+| 🚀 Project | 📝 Description | 🔧 Tech |
+|-----------|---------------|---------|
 | [my-project1](https://github.com/lougdalihalima6-eng/my-project1) | School project | — |
 | [my-project2](https://github.com/lougdalihalima6-eng/my-project2) | Web project | HTML |
 | [Course-Node-Js-Express](https://github.com/lougdalihalima6-eng/Course-Node-Js-Express) | Node.js & Express learning | JavaScript |
-| [tp_branch](https://github.com/lougdalihalima6-eng/tp_branch) | Branch practice (Git) | — |
+| [tp_branch](https://github.com/lougdalihalima6-eng/tp_branch) | Git branch practice | — |
 
 ---
 
 ## 🎯 Current Goals
 
-- [ ] Build a full-stack project with Node.js + MySQL
-- [ ] Explore Machine Learning with Python
-- [ ] Learn Docker & basic CI/CD pipelines
-- [ ] Contribute to an open-source project
+- [x] ✅ Setup my professional GitHub profile
+- [ ] 🔨 Build a full-stack project with Node.js + MySQL
+- [ ] 🤖 Explore Machine Learning with Python
+- [ ] 🐳 Learn Docker & CI/CD pipelines
+- [ ] 🌍 Contribute to an open-source project
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lougdalihalima6-eng&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Code is not just logic — it's a way of thinking."*
+### 💬 Quote of the day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *"Code is not just logic — it's a way of thinking."* ✨
 
 ⭐ **Feel free to explore my repositories and leave a star if you find something useful!**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
