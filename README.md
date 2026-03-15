@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Halima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, I'm Lougdali Halima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### Software Engineering Student | AI & Backend Development Enthusiast
 
@@ -146,21 +146,6 @@
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=lougdalihalima6-eng&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🔧 Tech |
-|:----------:|:-------------:|:-------:|
-| [my-project1](https://github.com/lougdalihalima6-eng/my-project1) | School project | — |
-| [my-project2](https://github.com/lougdalihalima6-eng/my-project2) | Web project | HTML |
-| [Course-Node-Js-Express](https://github.com/lougdalihalima6-eng/Course-Node-Js-Express) | Node.js & Express learning | JavaScript |
-| [tp_branch](https://github.com/lougdalihalima6-eng/tp_branch) | Git branch practice | — |
 
 </div>
 
