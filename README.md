@@ -1,7 +1,7 @@
 <!-- BANNIÈRE ANIMÉE EN HAUT -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Halima!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20AI%20%26%20Backend%20Enthusiast&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Halima!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20AI%20%26%20Backend%20Enthusiast&descAlignY=55&descSize=18)
 
 </div>
 
@@ -198,7 +198,6 @@
 
 ---
 
-<!-- BANNIÈRE ANIMÉE EN BAS -->
 <div align="center">
 
 ✨ *"Code is not just logic — it's a way of thinking."* ✨
