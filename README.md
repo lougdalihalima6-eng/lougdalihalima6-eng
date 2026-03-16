@@ -1,8 +1,11 @@
+<!-- BANNIÈRE ANIMÉE EN HAUT -->
 <div align="center">
 
-# Hi there, I'm Lougdali Halima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Halima!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20AI%20%26%20Backend%20Enthusiast&descAlignY=55&descSize=18)
 
-### Software Engineering Student | AI & Backend Development Enthusiast
+</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;AI+%26+Backend+Developer;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -151,6 +154,20 @@
 
 ---
 
+## 📌 Featured Projects
+
+<div align="center">
+
+[![my-project1](https://github-readme-stats.vercel.app/api/pin/?username=lougdalihalima6-eng&repo=my-project1&theme=tokyonight&hide_border=true)](https://github.com/lougdalihalima6-eng/my-project1)
+[![my-project2](https://github-readme-stats.vercel.app/api/pin/?username=lougdalihalima6-eng&repo=my-project2&theme=tokyonight&hide_border=true)](https://github.com/lougdalihalima6-eng/my-project2)
+
+[![Course-Node-Js-Express](https://github-readme-stats.vercel.app/api/pin/?username=lougdalihalima6-eng&repo=Course-Node-Js-Express&theme=tokyonight&hide_border=true)](https://github.com/lougdalihalima6-eng/Course-Node-Js-Express)
+[![tp_branch](https://github-readme-stats.vercel.app/api/pin/?username=lougdalihalima6-eng&repo=tp_branch&theme=tokyonight&hide_border=true)](https://github.com/lougdalihalima6-eng/tp_branch)
+
+</div>
+
+---
+
 ## 🎯 Current Goals
 
 - [x] ✅ Setup my professional GitHub profile
@@ -171,21 +188,23 @@
 
 ---
 
+## 💬 Quote of the day
+
 <div align="center">
 
-### 💬 Quote of the day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
+<!-- BANNIÈRE ANIMÉE EN BAS -->
 <div align="center">
 
 ✨ *"Code is not just logic — it's a way of thinking."* ✨
 
 ⭐ **Feel free to explore my repositories and leave a star if you find something useful!**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
